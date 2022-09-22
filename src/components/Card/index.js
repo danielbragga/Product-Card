@@ -20,7 +20,7 @@ function Card() {
             <p className="old-price">$169.99</p>
           </div>
           <button className="button">
-            <img src="/images/cart.svg" />
+            <img src="/images/cart.svg" alt=" " />
             Add to Cart
           </button>
         </div>
